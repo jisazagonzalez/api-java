@@ -4,10 +4,6 @@ public class Datos {
     private int id;
     private String nombre;
     private String descripcion;
-    private String lastname;
-    private int edad;
-    private int identificacion;
-    private String email;
 
     public Datos(int id, String nombre, String descripcion){
         this.id = id;
