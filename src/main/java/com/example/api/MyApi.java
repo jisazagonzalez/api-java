@@ -14,9 +14,4 @@ public class MyApi {
         return new Datos(1, "Elemento 1", "Descripcion del elemento 1");
     }    
 
-    @GetMapping("/datos1")
-    public Datos getData1(){
-        return new Datos(1, "Elemento 1", "Descripcion del elemento 1");
-    }  
-
 }
