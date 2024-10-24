@@ -4,6 +4,9 @@ public class Datos {
     private int id;
     private String nombre;
     private String descripcion;
+    private String apellido;
+    private int identificacion;
+    private int edad;
 
     public Datos(int id, String nombre, String descripcion){
         this.id = id;
