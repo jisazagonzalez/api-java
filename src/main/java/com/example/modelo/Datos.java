@@ -6,7 +6,6 @@ public class Datos {
     private String descripcion;
     private String apellido;
     private int identificacion;
-    private int edad;
 
     public Datos(int id, String nombre, String descripcion){
         this.id = id;
